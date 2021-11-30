@@ -1,4 +1,5 @@
-import java.io.*;
+package Graphs_30Nov2021;
+
 import java.util.*;
 
 public class intro {
@@ -16,7 +17,7 @@ public class intro {
 
     public static void main(String[] args) throws Exception {
         int vces = 7;
-        ArrayList<Edge>[] graph = new ArrayList<Edge>[7];
+        ArrayList<Edge>[] graph = new ArrayList[7];
         for (int i = 0; i < vces; i++) {
             graph[i] = new ArrayList<Edge>();
         }
