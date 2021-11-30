@@ -1,0 +1,105 @@
+GRAPS:
+
+
+it has Virtices and Edges
+
+like
+
+0      3      4
+.__40__.___2__.
+|      |      |\
+|10    |     3| \3
+|      |10    |  \
+|__10__|      |_3_\
+1      2      5    6
+
+Here in upper illustration 1, 2, 3, 4, 5 & 6 are the vertics.
+and here.
+0-1, 0-3, 1-2, 0-3 and all possible are the edges.
+
+Also edges can have weight on it. as 0-1 : 10, 0-3 : 40, 4-5 : 3 and all.
+
+it can be used to solve any network based problems,
+as edges are towns and edge weights are the paths,
+
+same for if edges are computers and weights are like lane wires.
+
+
+
+Questions can be asked as if there is a edge from 2-5 : False,
+and for 3-4 : true,
+
+and also ;
+print all possible path from 1 to 4:
+
+res: 1-0-3-4, 1-2-3-4.
+
+Same can be asked for 0-6.
+
+
+and also question could be as shortest path as per low weight, and also for low count for edges.
+
+all can be solved from djikestra algorithm(For low weight search).
+in terms of edges we use BFS.
+
+One more Question could be Minimum Spaning Tree.
+as if all the edges are like computers and you have to connect all from a lane wire, Give a solution which can take minimum wires.
+
+and to solve it we use Prim’s and Kruskal’s algorithm.
+
+
+IN DIRECTED GRAPHS:
+
+directed graphs are those which have edges direction.
+which can be solved from tepological sort.
+
+
+
+Now representation:
+
+Adjancy Matrix:
+
+   .__0__.__1__.__2__.__3__.__4__.__5__.__6__.
+   |     |     |     |     |     |     |     |
+  0|     |  10 |     |  40 |     |     |     |
+   |_____|_____|_____|_____|_____|_____|_____|
+   |     |     |     |     |     |     |     |
+  1|  10 |     | 10  |     |     |     |     |
+   |_____|_____|_____|_____|_____|_____|_____|
+   |     |     |     |     |     |     |     |
+  2|     |  10 |     | 10  |     |     |     |
+   |_____|_____|_____|_____|_____|_____|_____|
+   |     |     |     |     |     |     |     |
+  3|  40 |     |  10 |     |  2  |     |     |
+   |_____|_____|_____|_____|_____|_____|_____|
+   |     |     |     |     |     |     |     |
+  4|     |     |     |  2  |     |  3  |  8  |
+   |_____|_____|_____|_____|_____|_____|_____|
+   |     |     |     |     |     |     |     |
+  5|     |     |     |     |  3  |     |  3  |
+   |_____|_____|_____|_____|_____|_____|_____|
+   |     |     |     |     |     |     |     |
+  6|     |     |     |     |  8  |  3  |     |
+   |_____|_____|_____|_____|_____|_____|_____|
+   
+   But use it only when till count of vertices are less then 10000.
+
+
+   One More Popular implientation is Adgency List;
+
+  we make array of ArrayLists and thet arrayList are of edges
+
+  {ArrayLists ke edges ka array hotha hai graphs.}
+
+As:
+
+0 --> 0-1@10, 0-3@40;
+1 --> 1-0@10, 1-2@10;
+2 --> 2-1@10, 2-3@10;
+3 --> 3-0@10, 3-2@10, 3-4@2;
+4 --> 4-3@2, 4-5@3, 4-6@8;
+5 --> 5-4@3, 5-6@3;
+6 --> 6-5@3, 6-8@4;
+
+
+//************************************************** END ****************************************************//
