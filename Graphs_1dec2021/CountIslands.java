@@ -1,8 +1,6 @@
 package Graphs_1dec2021;
 
 import java.io.*;
-import java.util.*;
-
 public class CountIslands {
    public static void main(String[] args) throws Exception {
       BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
