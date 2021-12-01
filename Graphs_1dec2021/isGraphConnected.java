@@ -1,9 +1,9 @@
-package Graphs_30Nov2021;
+package Graphs_1dec2021;
 
 import java.io.*;
 import java.util.*;
 
-public class GetConnectedComponents {
+public class isGraphConnected {
    static class Edge {
       int src;
       int nbr;
@@ -47,7 +47,7 @@ public class GetConnectedComponents {
           }
       }
 
-      System.out.println(comps);
+      System.out.println(comps.size() == 1);
    }
    
    public static void drawTreeAndGenerateComponents(ArrayList<Edge>[] graph, int src, ArrayList<Integer> comp, boolean[] visited){
