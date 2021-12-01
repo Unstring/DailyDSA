@@ -1,3 +1,5 @@
+package RevisionForTest28_Nov2021.testQues;
+
 import java.util.*;
 public class LexicoGraphicalNumbers {
 	public static void main(String[] args) {
