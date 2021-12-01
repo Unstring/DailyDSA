@@ -38,7 +38,25 @@ public class GetConnectedComponents {
       ArrayList<ArrayList<Integer>> comps = new ArrayList<>();
       
       // write your code here
+      boolean[] visited = new boolean[vtces];
+      for(int v = 0; v < vtces; v++){
+          if(visited[v] == false){
+              ArrayList<Integer> comp = new ArrayList<>();
+              drawTreeAndGenerateComponents(graph, v, comp, visited);
+              comps.add(comp);
+          }
+      }
 
       System.out.println(comps);
+   }
+   
+   public static void drawTreeAndGenerateComponents(ArrayList<Edge>[] graph, int src, ArrayList<Integer> comp, boolean[] visited){
+       visited[src] = true;
+       comp.add(src);
+       for(Edge e : graph[src]){
+           if(visited[e.nbr] == false){
+               drawTreeAndGenerateComponents(graph, e.nbr, comp, visited);
+           }
+       }
    }
 }
