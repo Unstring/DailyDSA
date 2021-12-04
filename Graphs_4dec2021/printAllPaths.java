@@ -21,7 +21,7 @@ public class printAllPaths {
         }
         visited[src] = true;
         for(Edge edge : graph[src]){
-            if(visited[edge.nbr] == false){
+            if(!visited[edge.nbr]){
                 printAllPaths(graph, edge.nbr, dest, visited, psf + edge.nbr);
             }
         }
