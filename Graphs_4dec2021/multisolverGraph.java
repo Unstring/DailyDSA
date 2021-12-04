@@ -83,7 +83,7 @@ public class multisolverGraph {
                 spath = psf;
             }
             // Largest.
-            if(wsf > spathwt){
+            if(wsf > lpathwt){
                 lpathwt = wsf;
                 lpath = psf;
             }
@@ -99,7 +99,7 @@ public class multisolverGraph {
             }
             // Kth Largest.
             if(pq.size() < k){
-
+                pq.add(new Pair(wsf, psf));
             }else if(pq.peek().wsf < wsf){
                 pq.remove();
                 pq.add(new Pair(wsf,psf));
