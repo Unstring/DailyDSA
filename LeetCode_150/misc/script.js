@@ -27,13 +27,14 @@ let data = fs.readFileSync("all.txt","utf8").split("\n\n")
 //     })
 // })
 
+
+let str = "touch "
 data.forEach((qes)=>{
     qes.split("\n").forEach((e,i)=>{
         if (i%3 == 1) {
             let qn = qes.split("\n")[i]
-            if (qn.includes("-")) {
-                console.log(qn );
-            }
+            str += qn.split(" ").join("") + ".java "
         }
     })
 })
+console.log(str);

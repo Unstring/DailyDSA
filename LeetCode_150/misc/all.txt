@@ -31,8 +31,8 @@ Medium
 # 45ArrayDynamic ProgrammingGreedy
 H-Index
 Medium
-# 274ArraySorting
-Counting SortInsert Delete GetRandom O(1)
+# 274ArraySortingCounting Sort
+Insert Delete GetRandom O(1)
 Medium
 # 380ArrayHash TableMath2+
 Product of Array Except Self
