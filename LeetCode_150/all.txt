@@ -1,0 +1,495 @@
+Array / String
+Merge Sorted Array
+Easy
+# 88ArrayTwo PointersSorting
+Remove Element
+Easy
+# 27ArrayTwo Pointers
+Remove Duplicates from Sorted Array
+Easy
+# 26ArrayTwo Pointers
+Remove Duplicates from Sorted Array II
+Medium
+# 80ArrayTwo Pointers
+Majority Element
+Easy
+# 169ArrayHash TableDivide and Conquer2+
+Rotate Array
+Medium
+# 189ArrayMathTwo Pointers
+Best Time to Buy and Sell Stock
+Easy
+# 121ArrayDynamic Programming
+Best Time to Buy and Sell Stock II
+Medium
+# 122ArrayDynamic ProgrammingGreedy
+Jump Game
+Medium
+# 55ArrayDynamic ProgrammingGreedy
+Jump Game II
+Medium
+# 45ArrayDynamic ProgrammingGreedy
+H-Index
+Medium
+# 274ArraySorting
+Counting SortInsert Delete GetRandom O(1)
+Medium
+# 380ArrayHash TableMath2+
+Product of Array Except Self
+Medium
+# 238ArrayPrefix Sum
+Gas Station
+Medium
+# 134ArrayGreedy
+Candy
+Hard
+# 135ArrayGreedy
+Trapping Rain Water
+Hard
+# 42ArrayTwo PointersDynamic Programming2+
+Roman to Integer
+Easy
+# 13Hash TableMathString
+Integer to Roman
+Medium
+# 12Hash TableMathString
+Length of Last Word
+Easy
+# 58String
+Longest Common Prefix
+Easy
+# 14StringTrie
+Reverse Words in a String
+Medium
+# 151Two PointersString
+Zigzag Conversion
+Medium
+# 6String
+Find the Index of the First Occurrence in a String
+Easy
+# 28Two PointersStringString Matching
+Text Justification
+Hard
+# 68ArrayStringSimulation
+
+Two Pointers
+Valid Palindrome
+Easy
+# 125Two PointersString
+Is Subsequence
+Easy
+# 392Two PointersStringDynamic Programming
+Two Sum II - Input Array Is Sorted
+Medium
+# 167ArrayTwo PointersBinary Search
+Container With Most Water
+Medium
+# 11ArrayTwo PointersGreedy
+3Sum
+Medium
+# 15ArrayTwo PointersSorting
+
+Sliding Window
+Minimum Size Subarray Sum
+Medium
+# 209ArrayBinary SearchSliding Window1+
+Longest Substring Without Repeating Characters
+Medium
+# 3Hash TableStringSliding Window
+Substring with Concatenation of All Words
+Hard
+# 30Hash TableStringSliding Window
+Minimum Window Substring
+Hard
+# 76Hash TableStringSliding Window
+
+Matrix
+Valid Sudoku
+Medium
+# 36ArrayHash TableMatrix
+Spiral Matrix
+Medium
+# 54ArrayMatrixSimulation
+Rotate Image
+Medium
+# 48ArrayMathMatrix
+Set Matrix Zeroes
+Medium
+# 73ArrayHash TableMatrix
+Game of Life
+Medium
+# 289ArrayMatrixSimulation
+
+Hashmap
+Ransom Note
+Easy
+# 383Hash TableStringCounting
+Isomorphic Strings
+Easy
+# 205Hash TableString
+Word Pattern
+Easy
+# 290Hash TableString
+Valid Anagram
+Easy
+# 242Hash TableStringSorting
+Group Anagrams
+Medium
+# 49ArrayHash TableString1+
+Two Sum
+Easy
+# 1ArrayHash Table
+Happy Number
+Easy
+# 202Hash TableMathTwo Pointers
+Contains Duplicate II
+Easy
+# 219ArrayHash TableSliding Window
+Longest Consecutive Sequence
+Medium
+# 128ArrayHash TableUnion Find
+
+Intervals
+Summary Ranges
+Easy
+# 228Array
+Merge Intervals
+Medium
+# 56ArraySorting
+Insert Interval
+Medium
+# 57Array
+Minimum Number of Arrows to Burst Balloons
+Medium
+# 452ArrayGreedySorting
+
+Stack
+Valid Parentheses
+Easy
+# 20StringStack
+Simplify Path
+Medium
+# 71StringStack
+Min Stack
+Medium
+# 155StackDesign
+Evaluate Reverse Polish Notation
+Medium
+# 150ArrayMathStack
+Basic Calculator
+Hard
+# 224MathStringStack1+
+
+Linked List
+Linked List Cycle
+Easy
+# 141Hash TableLinked List
+Two PointersAdd Two Numbers
+Medium
+# 2Linked ListMathRecursion
+Merge Two Sorted Lists
+Easy
+# 21Linked ListRecursion
+Copy List with Random Pointer
+Medium
+# 138Hash TableLinked List
+Reverse Linked List II
+Medium
+# 92Linked List
+Reverse Nodes in k-Group
+Hard
+# 25Linked ListRecursion
+Remove Nth Node From End of List
+Medium
+# 19Linked ListTwo Pointers
+Remove Duplicates from Sorted List II
+Medium
+# 82Linked ListTwo Pointers
+Rotate List
+Medium
+# 61Linked ListTwo Pointers
+Partition List
+Medium
+# 86Linked ListTwo Pointers
+LRU Cache
+Medium
+# 146Hash TableLinked ListDesign1+
+
+Binary Tree General
+Maximum Depth of Binary Tree
+Easy
+# 104TreeDepth-First SearchBreadth-First Search1+
+Same Tree
+Easy
+# 100TreeDepth-First SearchBreadth-First Search1+
+Invert Binary Tree
+Easy
+# 226TreeDepth-First SearchBreadth-First Search1+
+Symmetric Tree
+Easy
+# 101TreeDepth-First SearchBreadth-First Search1+
+Construct Binary Tree from Preorder and Inorder Traversal
+Medium
+# 105ArrayHash TableDivide and Conquer2+
+Construct Binary Tree from Inorder and Postorder Traversal
+Medium
+# 106ArrayHash TableDivide and Conquer2+
+Populating Next Right Pointers in Each Node II
+Medium
+# 117Linked ListTreeDepth-First Search2+
+Flatten Binary Tree to Linked List
+Medium
+# 114Linked ListStackTree2+
+Path Sum
+Easy
+# 112TreeDepth-First SearchBreadth-First Search1+
+Sum Root to Leaf Numbers
+Medium
+# 129TreeDepth-First SearchBinary Tree
+Binary Tree Maximum Path Sum
+Hard
+# 124Dynamic ProgrammingTreeDepth-First Search1+
+Binary Search Tree Iterator
+Medium
+# 173StackTreeDesign3+
+Count Complete Tree Nodes
+Medium
+# 222Binary SearchTreeDepth-First Search1+
+Lowest Common Ancestor of a Binary Tree
+Medium
+# 236TreeDepth-First SearchBinary Tree
+
+Binary Tree BFS
+Binary Tree Right Side View
+Medium
+# 199TreeDepth-First SearchBreadth-First Search1+
+Average of Levels in Binary Tree
+Easy
+# 637TreeDepth-First SearchBreadth-First Search1+
+Binary Tree Level Order Traversal
+Medium
+# 102TreeBreadth-First SearchBinary Tree
+Binary Tree Zigzag Level Order Traversal
+Medium
+# 103TreeBreadth-First SearchBinary Tree
+
+Binary Search Tree
+Minimum Absolute Difference in BST
+Easy
+# 530TreeDepth-First SearchBreadth-First Search2+
+Kth Smallest Element in a BST
+Medium
+# 230TreeDepth-First SearchBinary Search Tree1+
+Validate Binary Search Tree
+Medium
+# 98TreeDepth-First SearchBinary Search Tree1+
+
+Graph General
+Number of Islands
+Medium
+# 200ArrayDepth-First SearchBreadth-First Search2+
+Surrounded Regions
+Medium
+# 130ArrayDepth-First SearchBreadth-First Search2+
+Clone Graph
+Medium
+# 133Hash TableDepth-First SearchBreadth-First Search1+
+Evaluate Division
+Medium
+# 399ArrayDepth-First SearchBreadth-First Search3+
+Course Schedule
+Medium
+# 207Depth-First SearchBreadth-First SearchGraph1+
+Course Schedule II
+Medium
+# 210Depth-First SearchBreadth-First SearchGraph1+
+
+Graph BFS
+Snakes and Ladders
+Medium
+# 909ArrayBreadth-First SearchMatrix
+Minimum Genetic Mutation
+Medium
+# 433Hash TableStringBreadth-First Search
+Word Ladder
+Hard
+# 127Hash TableStringBreadth-First Search
+
+Trie
+Implement Trie (Prefix Tree)
+Medium
+# 208Hash TableStringDesign1+
+Design Add and Search Words Data Structure
+Medium
+# 211StringDepth-First SearchDesign1+
+Word Search II
+Hard
+# 212ArrayStringBacktracking2+
+
+Backtracking
+Letter Combinations of a Phone Number
+Medium
+# 17Hash TableStringBacktracking
+Combinations
+Medium
+# 77Backtracking
+Permutations
+Medium
+# 46ArrayBacktracking
+Combination Sum
+Medium
+# 39ArrayBacktracking
+N-Queens II
+Hard
+# 52Backtracking
+Generate Parentheses
+Medium
+# 22StringDynamic Programming
+BacktrackingWord Search
+Medium
+# 79ArrayBacktrackingMatrix
+
+Divide & Conquer
+Convert Sorted Array to Binary Search Tree
+Easy
+# 108ArrayDivide and ConquerTree2+
+Sort List
+Medium
+# 148Linked ListTwo PointersDivide and Conquer2+
+Construct Quad Tree
+Medium
+# 427ArrayDivide and ConquerTree1+
+Merge k Sorted Lists
+Hard
+# 23Linked ListDivide and ConquerHeap (Priority Queue)1+
+
+Kadane's Algorithm
+Maximum Subarray
+Medium
+# 53ArrayDivide and ConquerDynamic Programming
+Maximum Sum Circular Subarray
+Medium
+# 918ArrayDivide and ConquerDynamic Programming2+
+
+Binary Search
+Search Insert Position
+Easy
+# 35ArrayBinary Search
+Search a 2D Matrix
+Medium
+# 74ArrayBinary SearchMatrix
+Find Peak Element
+Medium
+# 162ArrayBinary Search
+Search in Rotated Sorted Array
+Medium
+# 33ArrayBinary Search
+Find First and Last Position of Element in Sorted Array
+Medium
+# 34ArrayBinary Search
+Find Minimum in Rotated Sorted Array
+Medium
+# 153ArrayBinary Search
+Median of Two Sorted Arrays
+Hard
+# 4ArrayBinary SearchDivide and Conquer
+
+Heap
+Kth Largest Element in an Array
+Medium
+# 215ArrayDivide and ConquerSorting2+
+IPO
+Hard
+# 502ArrayGreedySorting1+
+Find K Pairs with Smallest Sums
+Medium
+# 373ArrayHeap (Priority Queue)
+Find Median from Data Stream
+Hard
+# 295Two PointersDesignSorting2+
+
+Bit Manipulation
+Add Binary
+Easy
+# 67MathStringBit Manipulation1+
+Reverse Bits
+Easy
+# 190Divide and ConquerBit Manipulation
+Number of 1 Bits
+Easy
+# 191Divide and ConquerBit Manipulation
+Single Number
+Easy
+# 136ArrayBit Manipulation
+Single Number II
+Medium
+# 137ArrayBit Manipulation
+Bitwise AND of Numbers Range
+Medium
+# 201Bit Manipulation
+
+Math
+Palindrome Number
+Easy
+# 9Math
+Plus One
+Easy
+# 66ArrayMath
+Factorial Trailing Zeroes
+Medium
+# 172Math
+Sqrt(x)
+Easy
+# 69MathBinary Search
+Pow(x, n)
+Medium
+# 50MathRecursion
+Max Points on a Line
+Hard
+# 149ArrayHash TableMath1+
+
+1D DP
+Climbing Stairs
+Easy
+# 70MathDynamic ProgrammingMemoization
+House Robber
+Medium
+# 198ArrayDynamic Programming
+Word Break
+Medium
+# 139ArrayHash TableString3+
+Coin Change
+Medium
+# 322ArrayDynamic ProgrammingBreadth-First Search
+Longest Increasing Subsequence
+Medium
+# 300ArrayBinary SearchDynamic Programming
+
+Multidimensional DP
+Triangle
+Medium
+# 120ArrayDynamic Programming
+Minimum Path Sum
+Medium
+# 64ArrayDynamic ProgrammingMatrix
+Unique Paths II
+Medium
+# 63ArrayDynamic Programming
+MatrixLongest Palindromic Substring
+Medium
+# 5StringDynamic Programming
+Interleaving String
+Medium
+# 97StringDynamic Programming
+Edit Distance
+Medium
+# 72StringDynamic Programming
+Best Time to Buy and Sell Stock III
+Hard
+# 123ArrayDynamic Programming
+Best Time to Buy and Sell Stock IV
+Hard
+# 188ArrayDynamic Programming
+Maximal Square
+Medium
+# 221ArrayDynamic ProgrammingMatrix
